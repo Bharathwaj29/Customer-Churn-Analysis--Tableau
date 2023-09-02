@@ -5,4 +5,4 @@ Technologies used:
 
 Data cleaning and preprocessing : Python
 
-Data visualization : Tableau
+Data visualization and Interactive Dashboards : Tableau
